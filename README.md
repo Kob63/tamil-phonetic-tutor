@@ -1,6 +1,6 @@
 # CHAT GPT AI POWERED PHONETIC TUTOR
 
-![Tamil Phonetic Tutor Screenshot](screenshots/demo.png)
+![Tamil Phonetic Tutor Screenshot](demo.png)
 
 ## Overview
 **CHAT GPT AI POWERED PHONETIC TUTOR V.1.0**  
